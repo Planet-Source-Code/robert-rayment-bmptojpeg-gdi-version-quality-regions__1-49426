@@ -1,0 +1,10 @@
+'INSTRUCTIONS
+'
+'Load a picture. It will be shown at the
+'Quality setting.  Change Quality then
+'press J button to show result.
+'
+'For selection press a selection button.
+'Draw on first picture then press J. The
+'selected area will be shown at the
+'Selection Quality setting.
